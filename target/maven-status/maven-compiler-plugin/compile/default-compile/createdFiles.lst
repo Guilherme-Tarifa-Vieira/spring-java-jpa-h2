@@ -1,0 +1,7 @@
+com\example\projectv01\ProjectV01Application.class
+com\example\projectv01\controllers\DepartmentController.class
+com\example\projectv01\controllers\UserController.class
+com\example\projectv01\entities\Department.class
+com\example\projectv01\repositories\DepartmentRepository.class
+com\example\projectv01\entities\User.class
+com\example\projectv01\repositories\UserRepository.class
